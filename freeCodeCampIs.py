@@ -1,1 +1,0 @@
-print("freeCodeCamp" , "is" , "great.")
